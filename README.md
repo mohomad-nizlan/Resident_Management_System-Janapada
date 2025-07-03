@@ -1,5 +1,5 @@
 <h1>🏠 Janapada Residential Management System</h1>
-Janapada is a residential management web application built using PHP, MySQL, and XAMPP as part of a 1st-year academic project. The system allows users to perform full CRUD (Create, Read, Update, Delete) operations on residential data.<br>
+Janapada is a residential management web application built using PHP, MySQL, and XAMPP as part of a 1st-year academic project. The system allows users to perform full CRUD (Create, Read, Update, Delete) operations on residential data.<br><br>
 
 
 <h2>🔧 Tech Stack</h2>
