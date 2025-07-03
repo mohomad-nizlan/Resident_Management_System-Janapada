@@ -39,7 +39,7 @@ Janapada is a residential management web application built using PHP, MySQL, and
 
 
 
-<h2>🚀 Getting Started</h2>h2>
+<h2>🚀 Getting Started</h2>
 
 1. Clone the repository:git clone https://github.com/mohomad-nizlan/Resident_Management_System-Janapada.git
 2. Set up XAMPP and start Apache and MySQL servers.
